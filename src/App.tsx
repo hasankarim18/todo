@@ -1,4 +1,5 @@
 import "./App.css";
+import Todo from "./pages/Todo";
 
 function App() {
   // const [count, setCount] = useState(0);
@@ -9,7 +10,7 @@ function App() {
         <h1 className="text-center border-b-lime-400 border">
           Branch todortk: Todo with rtk query
         </h1>
-        main branch
+        <Todo />
       </div>
     </div>
   );
