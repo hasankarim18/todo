@@ -1,3 +1,3 @@
 ## Project Target
 
-### # `Brand a` : Todo app with `rtk query`
+### # `Branch a` : Todo app with `rtk query`
