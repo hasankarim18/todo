@@ -1,6 +1,18 @@
 ## Project Target
 
+<<<<<<< HEAD
 ### # `Branch a` : Todo app with `rtk query`
+=======
+### # `Branch todortk` : Todo app with `rtk query`
+
+`git push`
+
+- 1.  `This todo app is build using rtk query`
+- 2.  `Adding server to branch todortk`
+- 3.  `adding todoSlice`
+
+## # toggle dark mode eanbled in app.tsx
+>>>>>>> todortk
 
 ```
 import { useEffect, useState } from "react";
@@ -81,5 +93,8 @@ function App() {
 
 export default App;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> todortk
 ```
