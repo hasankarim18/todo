@@ -49,7 +49,7 @@ function App() {
       <div className=" dark:bg-black  bg-white">
         <div className=" max-w-7xl min-h-screen  mx-auto">
           <div className="text-center border-l-0 border-r-0 border-t-0 dark:text-white text-balck border-b-lime-400 border flex justify-between">
-            <span>Branch todortk: Todo with rtk query</span>
+            <span>Branch:main</span>
             <span>
               <button
                 onClick={() => {
