@@ -4,7 +4,7 @@ import { Textarea } from "../ui/textarea";
 const AddTodo = () => {
   return (
     <div>
-      <div className="flex justify-center">
+      <div className="flex justify-center text-toggle-dark">
         <form action="" className="w-full md:w-[80%] lg:w-[60%]">
           <div className="grid grid-cols-12 items-center mb-4 ">
             <label className="col-span-12 md:col-span-12" htmlFor="todotitle">

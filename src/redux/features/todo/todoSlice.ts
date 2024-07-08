@@ -1,8 +1,9 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
+import { dummyState } from "../../../components/constants/dummyState";
 import { TTodoInitialState } from "../../../components/types/types";
 
 const initialState: TTodoInitialState = {
-  todos: [],
+  todos: dummyState,
 };
 
 export const todoSlice = createSlice({
